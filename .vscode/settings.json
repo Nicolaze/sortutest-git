@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "basic.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/litao/Documents/unittest/sort",
+            "binaryPath": "/Users/litao/Documents/unittest/sort/main",
+            "binaryArgs": []
+        }
+    ]
+}
